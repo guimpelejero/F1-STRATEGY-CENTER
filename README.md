@@ -6,8 +6,8 @@
 
 - El control del cotxe (Direcció i Força)
   El joc comença pausat. Per moure el cotxe, has d'introduir dos valors a la pantalla per triar cap a on vols que vagi:
-  Delta X (Dreta o Esquerra): Si poses un número positiu el cotxe anirà cap a la dreta, i si el poses negatiu anirà cap a l'esquerra.
-  Delta Y (Amunt o Avall): Si poses un número positiu el cotxe anirà cap avall, i si el poses negatiu anirà cap amunt.
+    - Delta X (Dreta o Esquerra): Si poses un número positiu el cotxe anirà cap a la dreta, i si el poses negatiu anirà cap a l'esquerra.
+    - Delta Y (Amunt o Avall): Si poses un número positiu el cotxe anirà cap avall, i si el poses negatiu anirà cap amunt.
 
   En el mode de joc Estàndard, veuràs una línia de punts grocs que et mostra el camí exacte que farà el cotxe abans de prémer el botó. 
   En el mode PRO, aquesta línia desapareix i has d'imaginar-te el camí tu mateix.
@@ -15,9 +15,9 @@
 - El comportament dels pneumàtics
   Abans de donar l'ordre de moure't, has de triar un dels tres tipus de pneumàtics. Cadascun canvia radicalment com reacciona el cotxe:
 
-  Tou (Soft): És el més ràpid de tots i el que accelera millor, però llisca més i tens menys control.
-  Mitjà (Medium): És el compost equilibrat, ideal per a qualsevol situació si no ho tens clar.
-  Dur (Hard): És el més lent i el que triga més a guanyar velocitat, però llisca menys; fent que sigui el millor per a principiants i per algú que vol tenir més control sobre el seu cotxe.
+   - Tou (Soft): És el més ràpid de tots i el que accelera millor, però llisca més i tens menys control.
+   - Mitjà (Medium): És el compost equilibrat, ideal per a qualsevol situació si no ho tens clar.
+   - Dur (Hard): És el més lent i el que triga més a guanyar velocitat, però llisca menys; fent que sigui el millor per a principiants i per algú que vol tenir més control sobre el seu cotxe.
 
 - La barra d'espai és clau
   Quan confirmes la teva ordre, el cotxe començarà a moure's a tota velocitat en la direcció triada. Però no s'aturarà sol!
@@ -25,9 +25,9 @@
 
 - Les normes i l'objectiu del circuit
   Per poder superar cadascun dels 20 circuits del joc, has de complir aquestes tres regles:
-  No val retallar: A la meitat del circuit hi ha una línia invisible de control. Has de passar-hi per sobre obligatòriament abans d'anar a la meta, si no, la teva volta no serà vàlida.
-  No pots trepitjar la gespa: Si calcules malament la força o no pauses a temps i el cotxe surt de l'asfalt, quedes eliminat a l'acte i has de reiniciar el circuit.
-  Cada circuit té un temps objectiu. Com més ràpid arribis a la meta, més estrelles aconseguiràs (fins a un màxim de 3). Si trigues massa, hauràs de repetir-lo millorant la teva estratègia.
+   - No val retallar: A la meitat del circuit hi ha una línia invisible de control. Has de passar-hi per sobre obligatòriament abans d'anar a la meta, si no, la teva volta no serà vàlida.
+   - No pots trepitjar la gespa: Si calcules malament la força o no pauses a temps i el cotxe surt de l'asfalt, quedes eliminat a l'acte i has de reiniciar el circuit.
+   - Cada circuit té un temps objectiu. Com més ràpid arribis a la meta, més estrelles aconseguiràs (fins a un màxim de 3). Si trigues massa, hauràs de repetir-lo millorant la teva estratègia.
 
 - Sistema d'ajuda
   El joc compta amb 20 circuits diferents que has d'anar desbloquejant.
@@ -37,7 +37,7 @@
 
 - El sistema de trofeus (Badges)
   A mesura que jugues i millores, el joc premia la teva habilitat guardant de manera automàtica 4 trofeus especials:
-  Pay Driver: Per aconseguir completar els 20 circuits en el mode Estàndard.
-  Grand Chelem: El trofeu per a la perfecció, ja que l'obtens si aconsegueixes les 3 estrelles a tots els circuits en el mode Estàndard.
-  Campió del Món: Per als valents que completen els 20 circuits en el complicat mode PRO (sense línies d'ajuda).
-  Hall of Fame: El repte definitiu del joc, que només es guanya si aconsegueixes les 3 estrelles a tots els circuits jugant en el mode PRO.
+   - Pay Driver: Per aconseguir completar els 20 circuits en el mode Estàndard.
+   - Grand Chelem: El trofeu per a la perfecció, ja que l'obtens si aconsegueixes les 3 estrelles a tots els circuits en el mode Estàndard.
+   - Campió del Món: Per als valents que completen els 20 circuits en el complicat mode PRO (sense línies d'ajuda).
+   - Hall of Fame: El repte definitiu del joc, que només es guanya si aconsegueixes les 3 estrelles a tots els circuits jugant en el mode PRO.
